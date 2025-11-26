@@ -1,0 +1,93 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/LFSR.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/byte_buffer32.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/clkDivMain.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/clkDivSecondary.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/datLinesCtrl.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/data_package.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/echo_ctrl.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/gowin_rpll/sys_clk100.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/pulseLUT_sync.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/top_uart_echo32.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/txFrameDriver.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/txResetOneShot.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/uart_baud_gen.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/uart_rx.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/uart_tx.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_2008"
+}

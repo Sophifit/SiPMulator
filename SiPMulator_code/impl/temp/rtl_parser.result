@@ -1,0 +1,126 @@
+[
+ {
+  "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+  "InstLine" : 45,
+  "InstName" : "masterControler",
+  "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+  "ModuleLine" : 45,
+  "ModuleName" : "masterControler",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+    "InstLine" : 209,
+    "InstName" : "clk_gen",
+    "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/gowin_rpll/sys_clk100.vhd",
+    "ModuleLine" : 13,
+    "ModuleName" : "sys_clk100"
+   },
+   {
+    "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+    "InstLine" : 216,
+    "InstName" : "uart_echo32_gen",
+    "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/top_uart_echo32.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "top_uart_echo32",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/top_uart_echo32.vhd",
+      "InstLine" : 57,
+      "InstName" : "U_BAUD",
+      "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/uart_baud_gen.vhd",
+      "ModuleLine" : 5,
+      "ModuleName" : "uart_baud_gen"
+     },
+     {
+      "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/top_uart_echo32.vhd",
+      "InstLine" : 70,
+      "InstName" : "U_RX",
+      "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/uart_rx.vhd",
+      "ModuleLine" : 5,
+      "ModuleName" : "uart_rx"
+     },
+     {
+      "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/top_uart_echo32.vhd",
+      "InstLine" : 81,
+      "InstName" : "U_BUF",
+      "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/byte_buffer32.vhd",
+      "ModuleLine" : 6,
+      "ModuleName" : "byte_buffer32"
+     },
+     {
+      "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/top_uart_echo32.vhd",
+      "InstLine" : 96,
+      "InstName" : "U_CTRL",
+      "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/echo_ctrl.vhd",
+      "ModuleLine" : 7,
+      "ModuleName" : "echo_ctrl"
+     },
+     {
+      "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/top_uart_echo32.vhd",
+      "InstLine" : 115,
+      "InstName" : "U_TX",
+      "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/uart_tx.vhd",
+      "ModuleLine" : 8,
+      "ModuleName" : "uart_tx"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+    "InstLine" : 231,
+    "InstName" : "u_lfsr_ms_timer",
+    "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/LFSR.vhd",
+    "ModuleLine" : 5,
+    "ModuleName" : "lfsr_ms_timer"
+   },
+   {
+    "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+    "InstLine" : 246,
+    "InstName" : "u_por",
+    "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/txResetOneShot.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "txResetOneShot"
+   },
+   {
+    "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+    "InstLine" : 256,
+    "InstName" : "valueCounter",
+    "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/pulseLUT_sync.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "pulseLUT_sync"
+   },
+   {
+    "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+    "InstLine" : 268,
+    "InstName" : "mainDivider",
+    "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/clkDivMain.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "clkDivMain"
+   },
+   {
+    "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+    "InstLine" : 276,
+    "InstName" : "digitalController",
+    "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/datLinesCtrl.vhd",
+    "ModuleLine" : 38,
+    "ModuleName" : "pmodDA1_ctrl"
+   },
+   {
+    "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+    "InstLine" : 287,
+    "InstName" : "secondDivider",
+    "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/clkDivSecondary.vhd",
+    "ModuleLine" : 31,
+    "ModuleName" : "clkDivSecondary"
+   },
+   {
+    "InstFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/masterControler.vhd",
+    "InstLine" : 293,
+    "InstName" : "u_txdrv",
+    "ModuleFile" : "C:/Users/DAVID/Documents/SOPHIA_CODE/SiPMulator_code/src/txFrameDriver.vhd",
+    "ModuleLine" : 5,
+    "ModuleName" : "txFrameDriver_safe"
+   }
+  ]
+ }
+]

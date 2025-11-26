@@ -1,0 +1,18 @@
+-d D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\gwsynthesis\SiPMulator_final_v2.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\pulso_SiPM.cst
+-cfg D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\pnr\device.cfg
+-sdc D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\SiPMulator_uart.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-place_option 0
+-route_option 0
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000

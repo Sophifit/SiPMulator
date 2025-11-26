@@ -1,0 +1,27 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2AR-18C" pn="GW2AR-LV18QN88C8/I7">gw2ar18c-000</Device>
+    <FileList>
+        <File path="src/LFSR.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/byte_buffer32.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/clkDivMain.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/clkDivSecondary.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/datLinesCtrl.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/data_package.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/echo_ctrl.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_rpll/sys_clk100.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/masterControler.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/pulseLUT_sync.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/top_uart_echo32.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/txFrameDriver.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/txResetOneShot.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/uart_baud_gen.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/uart_rx.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/uart_tx.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/pulso_SiPM.cst" type="file.cst" enable="1"/>
+        <File path="src/SiPMulator_uart.sdc" type="file.sdc" enable="1"/>
+    </FileList>
+</Project>

@@ -1,0 +1,93 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\data_package.vhd'
+Analyzing package 'data_package'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\data_package.vhd":5)
+Analyzing package body 'data_package'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\data_package.vhd":11)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\byte_buffer32.vhd'
+Analyzing entity 'byte_buffer32'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\byte_buffer32.vhd":6)
+Analyzing architecture 'rtl'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\byte_buffer32.vhd":21)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\echo_ctrl.vhd'
+Analyzing entity 'echo_ctrl'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\echo_ctrl.vhd":7)
+Analyzing architecture 'rtl'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\echo_ctrl.vhd":33)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_baud_gen.vhd'
+Analyzing entity 'uart_baud_gen'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_baud_gen.vhd":5)
+Analyzing architecture 'rtl'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_baud_gen.vhd":18)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_rx.vhd'
+Analyzing entity 'uart_rx'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_rx.vhd":5)
+Analyzing architecture 'rtl'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_rx.vhd":16)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_tx.vhd'
+Analyzing entity 'uart_tx'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_tx.vhd":8)
+Analyzing architecture 'rtl'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_tx.vhd":20)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivMain.vhd'
+Analyzing entity 'clkdivmain'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivMain.vhd":29)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivMain.vhd":35)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivSecondary.vhd'
+Analyzing entity 'clkdivsecondary'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivSecondary.vhd":31)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivSecondary.vhd":38)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\datLinesCtrl.vhd'
+Analyzing entity 'pmodda1_ctrl'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\datLinesCtrl.vhd":38)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\datLinesCtrl.vhd":49)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\pulseLUT_sync.vhd'
+Analyzing entity 'pulselut_sync'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\pulseLUT_sync.vhd":6)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\pulseLUT_sync.vhd":21)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txFrameDriver.vhd'
+Analyzing entity 'txframedriver_safe'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txFrameDriver.vhd":5)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txFrameDriver.vhd":15)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txResetOneShot.vhd'
+Analyzing entity 'txresetoneshot'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txResetOneShot.vhd":6)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txResetOneShot.vhd":17)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\masterControler.vhd'
+Analyzing entity 'mastercontroler'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\masterControler.vhd":60)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\masterControler.vhd":74)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\LFSR.vhd'
+Analyzing entity 'lfsr_ms_timer'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\LFSR.vhd":8)
+Analyzing architecture 'rtl'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\LFSR.vhd":23)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\gowin_rpll\sys_clk100.vhd'
+Analyzing entity 'sys_clk100'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\gowin_rpll\sys_clk100.vhd":13)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\gowin_rpll\sys_clk100.vhd":20)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\top_uart_echo32.vhd'
+Analyzing entity 'top_uart_echo32'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\top_uart_echo32.vhd":6)
+Analyzing architecture 'rtl'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\top_uart_echo32.vhd":24)
+Processing 'masterControler(Behavioral)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\masterControler.vhd":60)
+WARN  (EX4206) : Using initial value for 'lfsr_seed' since it is never assigned("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\masterControler.vhd":213)
+Extracting RAM for identifier 'bytes_in'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\masterControler.vhd":219)
+Processing 'sys_clk100(Behavioral)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\gowin_rpll\sys_clk100.vhd":13)
+Processing 'top_uart_echo32(rtl)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\top_uart_echo32.vhd":6)
+Processing 'uart_baud_gen(rtl)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_baud_gen.vhd":5)
+WARN  (EX4160) : Latch inferred for net 'acc16[5]'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_baud_gen.vhd":54)
+Processing 'uart_rx(rtl)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_rx.vhd":5)
+Processing 'byte_buffer32(rtl)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\byte_buffer32.vhd":6)
+Processing 'echo_ctrl(rtl)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\echo_ctrl.vhd":7)
+Processing 'uart_tx(rtl)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_tx.vhd":8)
+Processing 'lfsr_ms_timer(rtl)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\LFSR.vhd":8)
+Processing 'txResetOneShot(pulse_cycles=2048)(Behavioral)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txResetOneShot.vhd":6)
+Processing 'pulseLUT_sync(Behavioral)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\pulseLUT_sync.vhd":6)
+Processing 'clkDivMain(Behavioral)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivMain.vhd":29)
+Processing 'pmodDA1_ctrl(Behavioral)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\datLinesCtrl.vhd":38)
+Processing 'clkDivSecondary(Behavioral)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivSecondary.vhd":31)
+Processing 'txFrameDriver_safe(Behavioral)'("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txFrameDriver.vhd":5)
+NOTE  (EX0101) : Current top module is "masterControler"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+WARN  (DI0002) : Asynchronous register "ms_cnt[1]" initial values do not match with the Gowin library, simulation mismatch possible("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\LFSR.vhd":129)
+WARN  (DI0002) : Asynchronous register "ms_cnt[3]" initial values do not match with the Gowin library, simulation mismatch possible("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\LFSR.vhd":129)
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "clkDivSecondary" instantiated to "secondDivider" is swept in optimizing("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\masterControler.vhd":303)
+WARN  (NL0002) : The module "txResetOneShot" instantiated to "u_por" is swept in optimizing("D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\masterControler.vhd":262)
+[95%] Generate netlist file "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\gwsynthesis\SiPMulator_final_v2.vg" completed
+WARN  (CK3000) : Can't calculate clocks' relationship between: "digitalController/n6_6" and "clk_gen/rpll_inst/CLKOUT.default_gen_clk"
+[100%] Generate report file "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\gwsynthesis\SiPMulator_final_v2_syn.rpt.html" completed
+GowinSynthesis finish

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="masterControler" T_Register="247(0)" T_Lut="652(0)" T_Ssram="8(0)">
+ <SubModule name="clk_gen"/>
+ <SubModule name="uart_echo32_gen" T_Register="121(0)" T_Lut="270(0)" T_Ssram="8(0)">
+  <SubModule name="U_BAUD" Register="48" Lut="120" T_Register="48(48)" T_Lut="120(120)"/>
+  <SubModule name="U_RX" Register="20" Lut="33" T_Register="20(20)" T_Lut="33(33)"/>
+  <SubModule name="U_BUF" Lut="2" Ssram="8" T_Lut="2(2)" T_Ssram="8(8)"/>
+  <SubModule name="U_CTRL" Register="37" Lut="99" T_Register="37(37)" T_Lut="99(99)"/>
+  <SubModule name="U_TX" Register="16" Lut="16" T_Register="16(16)" T_Lut="16(16)"/>
+ </SubModule>
+ <SubModule name="u_lfsr_ms_timer" Register="50" Lut="193" T_Register="50(50)" T_Lut="193(193)"/>
+ <SubModule name="valueCounter" Register="13" Lut="14" T_Register="13(13)" T_Lut="14(14)"/>
+ <SubModule name="mainDivider" Register="16" Lut="25" T_Register="16(16)" T_Lut="25(25)"/>
+ <SubModule name="digitalController" Register="36" Lut="131" T_Register="36(36)" T_Lut="131(131)"/>
+ <SubModule name="u_txdrv" Register="11" Lut="19" T_Register="11(11)" T_Lut="19(19)"/>
+</Module>

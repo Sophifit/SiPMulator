@@ -1,0 +1,33 @@
+Reading netlist file: "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\gwsynthesis\SiPMulator_final_v2.vg"
+Parsing netlist file "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\gwsynthesis\SiPMulator_final_v2.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\pulso_SiPM.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1132) :  'n6_6' was determined to be a clock but was not created.
+WARN  (TA1132) :  'DA1_SCLK_d' was determined to be a clock but was not created.
+WARN  (TA1117) : Can't calculate clocks' relationship between: "n6_6" and "clk_gen/rpll_inst/CLKOUT.default_gen_clk"
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+WARN  (PR1014) : Generic routing resource will be used to clock signal 'clk_d' by the specified constraint. And then it may lead to the excessive delay or skew
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\pnr\SiPMulator_final_v2.power.html" completed
+Generate file "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\pnr\SiPMulator_final_v2.pin.html" completed
+Generate file "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\pnr\SiPMulator_final_v2.rpt.html" completed
+Generate file "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\pnr\SiPMulator_final_v2.rpt.txt" completed
+Generate file "D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\pnr\SiPMulator_final_v2.tr.html" completed
+Mon Nov 10 15:43:58 2025
+

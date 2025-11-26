@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2AR-18C" package="QFN88" speed="8" partNumber="GW2AR-LV18QN88C8/I7"/>
+    <FileList>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\byte_buffer32.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\echo_ctrl.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_baud_gen.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_rx.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\uart_tx.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivMain.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\clkDivSecondary.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\datLinesCtrl.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\pulseLUT_sync.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txFrameDriver.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\txResetOneShot.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\masterControler.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\LFSR.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\gowin_rpll\sys_clk100.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\top_uart_echo32.vhd" type="vhdl"/>
+        <File path="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\src\data_package.vhd" type="vhdl"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="D:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\bin\Documents\SiPMulator_final_v2\impl\gwsynthesis\SiPMulator_final_v2.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="vcc" value="1.0"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-2008"/>
+    </OptionList>
+</Project>
